@@ -9,7 +9,7 @@ const Header = (props) => {
     return (
         <Fragment>
             <header className={classes.header}>
-                <h1>Happy Meals</h1>
+                <h1>Yummy Meals</h1>
                 <HeaderCartButton onClick={props.onShowCart} />
             </header>
 
