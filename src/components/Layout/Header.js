@@ -14,9 +14,9 @@ const Header = (props) => {
             </header>
 
             <div className={classes["main-image"]}>
-                {/* <img src="./img/meals.jpg" alt="meal" />  */} {/* this is from "public" folder */}
-                <img src={mealsImage} alt="meal" /> {/* alternatively we can create "assets" folder and call  */}
-                {/* className={classes["main-image img"]} */}
+                {/*   */} {/* */}
+                <img src={mealsImage} alt="meal" /> {/* */}
+                {/* */}
             </div>
         </Fragment>
     );
